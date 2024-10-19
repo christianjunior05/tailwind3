@@ -583,6 +583,10 @@ video {
   width: 100vh;
 }
 
+.w-\[150vh\] {
+  width: 150vh;
+}
+
 .overflow-hidden {
   overflow: hidden;
 }
