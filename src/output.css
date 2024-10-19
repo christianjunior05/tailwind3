@@ -636,6 +636,10 @@ video {
   text-align: start;
 }
 
+.text-end {
+  text-align: end;
+}
+
 .text-6xl {
   font-size: 3.75rem;
   line-height: 1;
